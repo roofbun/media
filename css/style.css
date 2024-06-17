@@ -1,0 +1,32 @@
+/*PortfolioV2*/
+/* General */
+body {
+    font-family: Kanit, REM, 'Atkinson Hyperlegible';
+}
+
+.bg-gradient {
+    background: linear-gradient(#512D94 20%, #8041D9 57%, #FFF17C 100%) !important;
+}
+
+.bg-gradient2 {
+    background: linear-gradient(90deg, #512D94 0%, #000000 81%);
+}
+
+.bg-purple {
+    background: #512D94;
+}
+
+.beaches {
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+}
+
+
+/* Header */
+/* Main */
+main {
+    /* margin-top: 40px; */
+    padding: 40px 35px 80px;
+}
+/* Footer */
